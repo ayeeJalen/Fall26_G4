@@ -47,26 +47,34 @@ The Final Grade Calculator is designed to include:
 
 The Project 2 prototype was created using Figma.
 
-The prototype includes the major screens of the Final Grade Calculator, including:
+The prototype includes three major screens:
 
-1. **Main Screen** — Provides the starting point for the user.
-2. **Grade Input Screen** — Allows the user to enter grades and course information.
-3. **Results Screen** — Displays the calculated grade.
+### Main Screen
+
+The **MainScreen.png** image shows the starting screen of the Final Grade Calculator and provides the user with access to the grade calculation process.
+
+### Grade Input Screen
+
+The **gradeinputsreen** image shows the screen where users enter their grades and course information.
+
+### Results Screen
+
+The **Results** image shows the calculated grade and provides the user with the final result.
 
 ### Figma Prototype
 
 [Final Grade Calculator Figma Prototype](https://www.figma.com/make/ej4oPIRWa1G9vT4l6qxN8Z/Final-Grade-Calculator-App?code-node-id=0-6&p=f&t=JL6JyebRQVdlzuxX-0&fullscreen=1)
 
-## Project 2 Prototype Files
+## Prototype Files
 
 The `prototype` folder contains the prototype documentation and screenshots.
 
 ```text
 prototype/
 ├── prototype-description.md
-├── main-screen.png
-├── grade-input-screen.png
-└── results-screen.png
+├── gradeinputsreen
+├── MainScreen.png
+└── Results
 ```
 
 ## User Flow
@@ -103,14 +111,14 @@ The goals of the project are to:
 
 ## Scrum Team
 
-**Jalen Davis**
+### Jalen Davis
 
 * Team Member
 * Prototype development
 * Documentation
 * Product development
 
-**Malachi Johnson**
+### Malachi Johnson
 
 * Team Member
 * Prototype development
@@ -141,7 +149,8 @@ Fall26_G4/
 │
 └── prototype/
     ├── prototype-description.md
-    ├── main-screen.png
-    ├── grade-input-screen.png
-    └── results-screen.png
+    ├── gradeinputsreen
+    ├── MainScreen.png
+    └── Results
 ```
+
