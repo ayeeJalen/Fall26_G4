@@ -55,13 +55,13 @@ The main screen provides the starting point for the Final Grade Calculator.
 
 The grade input screen allows users to enter their grades and course information.
 
-![Grade Input Screen](prototype/gradeinputsreen)
+![Grade Input Screen](gradeinputsreen.png)
 
 ### Results Screen
 
 The results screen displays the calculated grade.
 
-![Results Screen](prototype/Results)
+![Results Screen](Results.png)
 
 ## Figma Prototype
 
