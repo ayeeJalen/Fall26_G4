@@ -49,7 +49,7 @@ The Project 2 prototype was created using Figma.
 
 The main screen provides the starting point for the Final Grade Calculator.
 
-![Main Screen](MainScreen.png)
+![Main Screen](MainScreen.png.png)
 
 ### Grade Input Screen
 
