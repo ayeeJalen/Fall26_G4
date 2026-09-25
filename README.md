@@ -32,8 +32,6 @@ The primary users of the Final Grade Calculator are college students who want to
 
 ## Main Features
 
-The Final Grade Calculator is designed to include:
-
 * Grade input
 * Weighted grade calculations
 * Course category weights
@@ -47,39 +45,29 @@ The Final Grade Calculator is designed to include:
 
 The Project 2 prototype was created using Figma.
 
-The prototype includes three major screens:
-
 ### Main Screen
 
-The **MainScreen.png** image shows the starting screen of the Final Grade Calculator and provides the user with access to the grade calculation process.
+The main screen provides the starting point for the Final Grade Calculator.
+
+![Main Screen](prototype/MainScreen.png)
 
 ### Grade Input Screen
 
-The **gradeinputsreen** image shows the screen where users enter their grades and course information.
+The grade input screen allows users to enter their grades and course information.
+
+![Grade Input Screen](prototype/gradeinputsreen)
 
 ### Results Screen
 
-The **Results** image shows the calculated grade and provides the user with the final result.
+The results screen displays the calculated grade.
 
-### Figma Prototype
+![Results Screen](prototype/Results)
+
+## Figma Prototype
 
 [Final Grade Calculator Figma Prototype](https://www.figma.com/make/ej4oPIRWa1G9vT4l6qxN8Z/Final-Grade-Calculator-App?code-node-id=0-6&p=f&t=JL6JyebRQVdlzuxX-0&fullscreen=1)
 
-## Prototype Files
-
-The `prototype` folder contains the prototype documentation and screenshots.
-
-```text
-prototype/
-├── prototype-description.md
-├── gradeinputsreen
-├── MainScreen.png
-└── Results
-```
-
 ## User Flow
-
-The basic user flow for the application is:
 
 1. The student opens the Final Grade Calculator.
 2. The student begins a grade calculation.
@@ -90,8 +78,6 @@ The basic user flow for the application is:
 
 ## Technologies
 
-The project may use the following tools and technologies:
-
 * Java
 * Visual Studio Code
 * Git
@@ -99,8 +85,6 @@ The project may use the following tools and technologies:
 * Figma
 
 ## Project Goals
-
-The goals of the project are to:
 
 * Create an easy-to-use grade calculator.
 * Make weighted grade calculations easier for students.
@@ -129,13 +113,11 @@ The goals of the project are to:
 
 Project 2 focuses on product vision and prototyping. The team developed the product vision, identified the intended users, discussed how users interact with the product, created the prototype, and documented the development process through Scrum meeting minutes.
 
-Meeting minutes are located in:
+Meeting minutes:
 
-```text
-minutes_1.md
-minutes_2.md
-minutes_3.md
-```
+* `minutes_1.md`
+* `minutes_2.md`
+* `minutes_3.md`
 
 ## Repository Structure
 
@@ -153,4 +135,5 @@ Fall26_G4/
     ├── MainScreen.png
     └── Results
 ```
+
 
