@@ -65,7 +65,7 @@ The results screen displays the calculated grade.
 
 ## Figma Prototype
 
-[Final Grade Calculator Figma Prototype](https://www.figma.com/make/ej4oPIRWa1G9vT4l6qxN8Z/Final-Grade-Calculator-App?code-node-id=0-6&p=f&t=JL6JyebRQVdlzuxX-0&fullscreen=1)
+[Final Grade Calculator Figma Prototype](https://www.figma.com/make/ej4oPIRWa1G9tV4l6qxN8Z/Final-Grade-Calculator-App?t=VzNO4h9GoaY0lqrL-1)
 
 ## User Flow
 
