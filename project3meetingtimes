@@ -1,0 +1,118 @@
+# Project 3 Meeting Minutes
+**Project:** Final Grade Calculator  
+**Team Members:** Jalen Davis, Malachi Johnson  
+**Meeting Period:** October 7–13, 2026
+
+---
+
+# Meeting 4: Project 3 Planning
+
+**Date:** October 7, 2026  
+**Attendees:** Jalen Davis, Malachi Johnson
+
+## Meeting Summary
+
+The team reviewed the Project 3 requirements and discussed how to organize the work for the Final Grade Calculator. The team focused on identifying the application's main features and documenting the requirements.
+
+## Discussion and Decisions
+
+- Identified the application's purpose: helping students calculate their current grades and determine what scores they need on upcoming assignments or exams.
+- Discussed three potential features: calculating current grades, calculating the score needed on a final exam, and estimating a final course grade.
+- Discussed making the application straightforward and easy for students to use.
+- Discussed dividing the documentation work between team members.
+
+## Product Backlog Items (PBI)
+
+| PBI | Description | Priority |
+|---|---|---|
+| PBI 1 | Calculate a student's current grade using assignment scores and weights. | High |
+| PBI 2 | Calculate the score needed on a final exam to reach a target course grade. | High |
+| PBI 3 | Estimate a final course grade based on expected future scores. | Medium |
+
+## Action Items
+
+- Document the proposed features.
+- Develop personas representing the application's target users.
+- Draft scenarios showing how students would use the application.
+- Prepare user stories and acceptance criteria for review.
+
+---
+
+# Meeting 5: Personas, Scenarios, and User Stories
+
+**Date:** October 10, 2026  
+**Attendees:** Jalen Davis, Malachi Johnson
+
+## Meeting Summary
+
+The team focused on identifying the target users of the Final Grade Calculator and describing how the application's features would help students understand their academic performance.
+
+## Discussion and Decisions
+
+- Identified college students who want to monitor their grades as a primary user group.
+- Considered students preparing for final exams who need to determine the score required to reach a desired grade.
+- Considered students who want to estimate their final course grade before the semester ends.
+- Discussed displaying calculations and results clearly.
+- Reviewed how user stories describe application requirements from the student's perspective.
+
+## Product Backlog Items (PBI)
+
+| PBI | Description | Priority |
+|---|---|---|
+| PBI 4 | Create a persona for a student tracking their current grade. | High |
+| PBI 5 | Create a persona and scenario for a student preparing for a final exam. | High |
+| PBI 6 | Write user stories describing the application's grade-calculation features. | High |
+
+## Action Items
+
+- Complete at least three personas.
+- Write at least three user scenarios.
+- Write at least three user stories with acceptance criteria.
+- Review the documentation for consistency with the application's purpose.
+
+---
+
+# Meeting 6: Project 3 Documentation Review
+
+**Date:** October 13, 2026  
+**Attendees:** Jalen Davis, Malachi Johnson
+
+## Meeting Summary
+
+The team reviewed the Project 3 documentation and discussed the remaining work needed to prepare the repository for submission. The focus was on ensuring that the required features, personas, scenarios, and user stories were included.
+
+## Discussion and Decisions
+
+- Reviewed the proposed features for the Final Grade Calculator.
+- Reviewed the personas and scenarios to ensure they represented student needs.
+- Discussed making user stories specific enough to guide future development.
+- Reviewed the README and discussed organizing project documentation in Markdown files.
+- Identified the need to verify that all files were saved and committed to GitHub before submission.
+
+## Product Backlog Items (PBI)
+
+| PBI | Description | Priority |
+|---|---|---|
+| PBI 7 | Review and finalize the Project 3 features, personas, scenarios, and user stories. | High |
+| PBI 8 | Update the README with the current project overview and documentation links. | Medium |
+| PBI 9 | Check repository files and prepare the Project 3 submission. | High |
+
+## Action Items
+
+- Finalize the dedicated Project 3 Markdown document.
+- Check that all required meeting-minutes files are present.
+- Verify filenames and Markdown formatting.
+- Commit and push the completed files to GitHub.
+- Submit the repository link through GeorgiaView.
+
+---
+
+# Overall Project 3 Goals
+
+- Document at least three features.
+- Create at least three personas.
+- Write at least three scenarios.
+- Create at least three user stories.
+- Assign responsibilities to team members.
+- Maintain the required Markdown documentation.
+- Review the repository before submitting Project 3.
