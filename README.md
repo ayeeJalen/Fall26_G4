@@ -4,13 +4,12 @@
 ## Group 4
 
 **Team Members:**
-
-* Jalen Davis
-* Malachi Johnson
+- Jalen Davis
+- Malachi Johnson
 
 ## Product Overview
 
-The Final Grade Calculator is a software product designed to help students calculate and understand their grades in a course. The application allows students to enter their grades and course information and receive a calculated grade.
+The Final Grade Calculator is a software product designed to help students calculate and understand their grades in a course. The application allows students to enter their grades and course information and receive calculated results.
 
 The goal is to make grade calculations easier and reduce the need for students to manually calculate weighted grades.
 
@@ -18,122 +17,57 @@ The goal is to make grade calculations easier and reduce the need for students t
 
 Our vision is to create a simple and user-friendly Final Grade Calculator that helps students understand their current academic performance and determine how future assignments or exams may affect their final grade.
 
-The calculator should provide students with clear results while keeping the process of entering and calculating grades simple.
+The calculator aims to provide clear results while keeping the process of entering and calculating grades simple.
 
 ## Target Users
 
 The primary users of the Final Grade Calculator are college students who want to:
 
-* Calculate their current course grade.
-* Track their academic performance.
-* Understand how assignment grades affect their overall grade.
-* Determine what grades they may need on future assignments or exams.
-* Quickly calculate weighted grades without doing the calculations manually.
+- Calculate their current course grade.
+- Track their academic performance.
+- Understand how assignment grades affect their overall grade.
+- Determine what scores they may need on future assignments or exams.
+- Calculate weighted grades without performing the calculations manually.
 
 ## Main Features
 
-* Grade input
-* Weighted grade calculations
-* Course category weights
-* Current grade calculation
-* Final grade calculation
-* Final exam grade calculation
-* Clear presentation of calculated results
-* Easy-to-use interface
+- Grade input
+- Weighted grade calculations
+- Course category weights
+- Current grade calculation
+- Final grade calculation
+- Final exam grade calculation
+- Clear presentation of calculated results
+- Easy-to-use interface
 
-## Prototype
+## Project 3: Features, Personas, Scenarios, and User Stories
 
-The Project 2 prototype was created using Figma.
+Project 3 expands the product requirements by identifying the application's key features, intended user personas, usage scenarios, and user stories. These requirements help the team understand what the application should do and how it should support students.
 
-### Main Screen
+### Section 1: Features
 
-The main screen provides the starting point for the Final Grade Calculator.
+**Feature 1: Calculate Current Course Grade**
 
-![Main Screen](MainScreen.png.png)
+The application allows students to enter their course grades and calculate their current overall grade to understand their academic performance.
 
-### Grade Input Screen
+**Feature 2: Calculate Required Final Exam Score**
 
-The grade input screen allows users to enter their grades and course information.
+The application allows students to enter their current grade, final exam weight, and desired overall grade to determine the exam score needed to reach their goal.
 
-![Grade Input Screen](gradeinputsreen.png)
+**Feature 3: Estimate Final Course Grade**
 
-### Results Screen
+The application allows students to enter a possible final exam score and estimate how that score could affect their overall course grade.
 
-The results screen displays the calculated grade.
+### Section 2: Personas
 
-![Results Screen](Results.png)
+**Persona 1: Student Tracking Current Performance**
 
-## Figma Prototype
+Alex Johnson is a college student who wants to monitor academic performance throughout the semester. Alex uses the calculator to check current grades and determine whether improvement is needed.
 
-[Final Grade Calculator Figma Prototype](https://www.figma.com/make/ej4oPIRWa1G9tV4l6qxN8Z/Final-Grade-Calculator-App?t=VzNO4h9GoaY0lqrL-1)
+**Persona 2: Student Preparing for a Final Exam**
 
-## User Flow
+Taylor Smith is a student preparing for final exams. Taylor wants to determine the score needed on a final exam to achieve a desired overall course grade.
 
-1. The student opens the Final Grade Calculator.
-2. The student begins a grade calculation.
-3. The student enters the required course and grade information.
-4. The calculator processes the information.
-5. The calculated grade is displayed.
-6. The student can change the information and calculate again if necessary.
-
-## Technologies
-
-* Java
-* Visual Studio Code
-* Git
-* GitHub
-* Figma
-
-## Project Goals
-
-* Create an easy-to-use grade calculator.
-* Make weighted grade calculations easier for students.
-* Provide clear and understandable results.
-* Develop a functional and user-friendly prototype.
-* Follow the Scrum development process.
-* Work together as a team to complete project tasks.
-
-## Scrum Team
-
-### Jalen Davis
-
-* Team Member
-* Prototype development
-* Documentation
-* Product development
-
-### Malachi Johnson
-
-* Team Member
-* Prototype development
-* Design review
-* Documentation
-
-## Project 2 Work
-
-Project 2 focuses on product vision and prototyping. The team developed the product vision, identified the intended users, discussed how users interact with the product, created the prototype, and documented the development process through Scrum meeting minutes.
-
-Meeting minutes:
-
-* `minutes_1.md`
-* `minutes_2.md`
-* `minutes_3.md`
-
-## Repository Structure
-
-```text
-Fall26_G4/
-│
-├── README.md
-├── minutes_1.md
-├── minutes_2.md
-├── minutes_3.md
-│
-└── prototype/
-    ├── prototype-description.md
-    ├── gradeinputsreen
-    ├── MainScreen.png
-    └── Results
-```
+**Persona 
 
 
