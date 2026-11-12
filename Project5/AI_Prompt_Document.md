@@ -35,48 +35,37 @@ The primary users are college students who want to:
 - Determine what score they need on a future assignment or final exam.
 - Estimate their final course grade based on possible scores.
 
-# Section 3: Prototypes (Project 2)
+## Section 3: Prototype Designs (Project 2)
 
-Our team developed a prototype of the Final Grade Calculator using Figma.
+The following three images represent the original Final Grade Calculator prototypes developed during Project 2. These prototypes will serve as the visual references for the React Native Expo application. The application should follow the layouts, screen organization, and design elements shown in these images.
 
-The prototype demonstrates the planned user interface and the basic user flow of the application.
+### 3.1 Main Screen Prototype
 
-The prototype contains three primary screens.
+The Main Screen serves as the application's home screen. It provides students with access to the main features of the Final Grade Calculator.
 
-## 3.1 Main Screen
+![Main Screen Prototype](https://github.com/ayeeJalen/Fall26_G4/blob/main/Project5/Prototype_Images/MainScreen.png.png?raw=true)
 
-**Image:** `MainScreen.png.png`
+[View MainScreen.png.png on GitHub](https://github.com/ayeeJalen/Fall26_G4/blob/main/Project5/Prototype_Images/MainScreen.png.png)
 
-The main screen provides the starting point for the Final Grade Calculator.
+### 3.2 Grade Input Screen Prototype
 
-It introduces the application and provides the starting point for students to begin using the grade calculation features.
+The Grade Input Screen allows students to enter their course grades and the information needed to calculate their academic performance.
 
-## 3.2 Grade Input Screen
+![Grade Input Screen Prototype](https://github.com/ayeeJalen/Fall26_G4/blob/main/Project5/Prototype_Images/gradeinputsreen.png?raw=true)
 
-**Image:** `gradeinputsreen.png`
+[View gradeinputsreen.png on GitHub](https://github.com/ayeeJalen/Fall26_G4/blob/main/Project5/Prototype_Images/gradeinputsreen.png)
 
-The grade input screen allows students to enter their grades and course information.
+### 3.3 Results Screen Prototype
 
-Students use this screen to provide the information needed for grade calculations.
+The Results Screen displays the calculated grade information so students can understand their current academic standing and evaluate possible final exam outcomes.
 
-## 3.3 Results Screen
+![Results Screen Prototype](https://github.com/ayeeJalen/Fall26_G4/blob/main/Project5/Prototype_Images/Results.png?raw=true)
 
-**Image:** `Results.png`
+[View Results.png on GitHub](https://github.com/ayeeJalen/Fall26_G4/blob/main/Project5/Prototype_Images/Results.png)
 
-The results screen displays the calculated grade.
+### 3.4 Prototype Development Requirements
 
-It allows students to understand the results of their entered grade information.
-
-## 3.4 Prototype User Flow
-
-The intended user flow is:
-
-1. The student opens the Final Grade Calculator.
-2. The student begins a grade calculation.
-3. The student enters the required course and grade information.
-4. The calculator processes the information.
-5. The calculated result is displayed.
-6. The student can change the information and calculate again if necessary.
+Use all three prototype images as visual references when developing the application. Recreate the screens as closely as possible while ensuring that the application is functional, easy to navigate, and compatible with React Native Expo.
 
 ## 3.5 Prototype Images
 
